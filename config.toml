@@ -7,7 +7,7 @@ enableRobotsTXT = true
 theme = ["docsy"]
 
 # Will give values to .Lastmod etc.
-enableGitInfo = true
+enableGitInfo = false
 
 # Language settings
 contentDir = "content/nl"
@@ -58,16 +58,6 @@ description = "Hulp paginas voor allerlei IT gerelateerde onderwerpen."
 languageName ="Nederlands"
 # Weight used for sorting.
 weight = 1
-#[languages.en]
-#title = "Goldydocs"
-#description = "A Docsy example site"
-#languageName ="English"
-#contentDir = "content/en"
-#time_format_default = "02.01.2006"
-#time_format_blog = "02.01.2006"
-## Weight used for sorting.
-#weight = 2
-
 
 [markup]
   [markup.goldmark]
