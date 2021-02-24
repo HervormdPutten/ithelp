@@ -30,7 +30,7 @@ jobs:
 
       # Build website with Hugo
       - name: Build
-        run: hugo --minify
+        run: HUGO_ENV="production" hugo --minify --gc
 
       # Deploy the website to gh-pages branch
       - name: Deploy
