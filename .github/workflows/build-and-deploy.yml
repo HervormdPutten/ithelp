@@ -42,4 +42,5 @@ jobs:
           force_orphan: true
           user_name: 'HGPBot'
           user_email: 'hgpbot@hervormdputten.nl'
+          cname: ithelp.hervormdputten.nl
 
