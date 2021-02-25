@@ -5,7 +5,9 @@ description: >
   Bijvoorbeeld bij catechese kan er gebruik worden gemaakt van Breakout Rooms (Spreek kamers)
 ---
 
-
+{{% pageinfo color="warning" %}}
+Hieronder staan wat links genoemd, maar die informatie is nog niet compleet.
+{{% /pageinfo %}}
 
 Over Breakout Rooms:
 Demo video:
