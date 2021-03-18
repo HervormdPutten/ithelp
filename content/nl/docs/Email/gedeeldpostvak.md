@@ -75,16 +75,15 @@ Omdat we op dit moment nog in de migratie zitten, is het nog niet mogelijk om de
 
 Voor de toegang voor IMAP en POP zijn de inloggegevens iets anders:
 
-> Instellingen voor IMAP:
-> Emailadres: voorbeeld@hervormdputten.nl (gedeeld postvak)
-> IMAP SERVER: outlook.office365.com
+> Instellingen voor IMAP:   
+> Emailadres: voorbeeld@hervormdputten.nl (gedeeld postvak)   
+> IMAP SERVER: outlook.office365.com   
 >
-> Gebruikersnaam: uw_gebruikersnaam@hervormdputten.nl\voorbeeld (gebruikersnaam\verkorte naam van gedeeld postvak)
-> Wachtwoord: uwgeheim (wachtwoord van uw gebruikersnaam)
-
+> Gebruikersnaam: uw_gebruikersnaam@hervormdputten.nl\voorbeeld (gebruikersnaam\verkorte naam van gedeeld postvak)   
+> Wachtwoord: uwgeheim (wachtwoord van uw gebruikersnaam)   
 
 Zoals hierboven genoemd, SMTP werkt nog niet, maar als het wel werkt:
-> SMTP SERVER: smtp.office365.com (port 587)
-> Gebruikernaam: uw_gebruikersnaam@hervormdputten.nl (uw gebruikersnaam, zodat gecontroleerd kan worden dat u verstuurd namens het gedeeld postvak)
-> Wachtwoord: uwgeheim (wachtwoord van uw gebruikersnaam)
+> SMTP SERVER: smtp.office365.com (port 587)   
+> Gebruikernaam: uw_gebruikersnaam@hervormdputten.nl (uw gebruikersnaam, zodat gecontroleerd kan worden dat u verstuurd namens het gedeeld postvak)   
+> Wachtwoord: uwgeheim (wachtwoord van uw gebruikersnaam)   
 
