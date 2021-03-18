@@ -66,5 +66,25 @@ Verzonden items vanuit een gedeeld postvak worden netjes opgeslagen bij de verzo
 Voor degene die Outlook op hun computer hebben, is er ook een manier op een gedeeld postvak in Outlook te openen.
 Hier heeft Microsoft een [uitgebreide pagina](https://support.microsoft.com/nl-nl/office/een-gedeeld-postvak-openen-en-gebruiken-in-outlook-d94a8e9e-21f1-4240-808b-de9c9c088afd?ui=nl-NL&rs=nl-NL&ad=NL) over gemaakt.
 
-Uit documentatie op internet blijkt vooralsnog dat toegang vanuit andere email programma's naar een gedeeld postvak lastig is.
-Als hier meer over bekend is, dan zullen we die informatie hier bijwerken. Mocht u daar zelf tips over hebben, dan kunt u ze sturen naar ithelp@hervormdputten.nl
+Op [deze pagina](https://support.microsoft.com/nl-nl/office/pop-imap-en-stmp-instellingen-8361e398-8af4-4e97-b147-6c6c4ac95353)
+vind u meer informatie over het instellen van SMTP, POP of IMAP.
+
+{{% alert title="SMTP (email versturen) werkt nog niet" color="warning" %}}
+Omdat we op dit moment nog in de migratie zitten, is het nog niet mogelijk om de SMTP instellingen van Microsoft 365 te gebruiken voor verzenden.
+{{% /alert %}}
+
+Voor de toegang voor IMAP en POP zijn de inloggegevens iets anders:
+
+> Instellingen voor IMAP:
+> Emailadres: voorbeeld@hervormdputten.nl (gedeeld postvak)
+> IMAP SERVER: outlook.office365.com
+>
+> Gebruikersnaam: uw_gebruikersnaam@hervormdputten.nl\voorbeeld (gebruikersnaam\verkorte naam van gedeeld postvak)
+> Wachtwoord: uwgeheim (wachtwoord van uw gebruikersnaam)
+
+
+Zoals hierboven genoemd, SMTP werkt nog niet, maar als het wel werkt:
+> SMTP SERVER: smtp.office365.com (port 587)
+> Gebruikernaam: uw_gebruikersnaam@hervormdputten.nl (uw gebruikersnaam, zodat gecontroleerd kan worden dat u verstuurd namens het gedeeld postvak)
+> Wachtwoord: uwgeheim (wachtwoord van uw gebruikersnaam)
+

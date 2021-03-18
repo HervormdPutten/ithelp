@@ -26,7 +26,7 @@ Het geeft ons ook precies inzicht in wie toegang heeft tot welk account.
 Hieronder is een stappenplan beschreven hoe we de migratie per emailadres gaan doen. 
 Als er vragen zijn, dan kan er altijd een email gestuurd worden naar ithelp@hervormdputten.nl
 
-1. Een [persoonlijk account](../../account) wordt aangemaakt.    
+1. Een [persoonlijk account](../../account) wordt aangemaakt, dit is een emailadres als <voornaam>.<achternaam>@hervormdputten.nl.    
     Accountgegevens worden automatisch toegestuurd naar het opgegeven prive emailadres. Controleer of de [toegang](../toegang) werkt.
 1. Een [gedeeld postvak](../gedeeldpostvak) wordt aangemaakt. Controleer ook of het werkt en verstuur een bericht vanuit het gedeeld postvak naar je prive emailadres.   
    LET OP: Een email versturen naar het gedeeld postvak, komt nog bij het emailadres bij Solcon terecht, meer details zie hieronder bij 'email tijdens migratie'.

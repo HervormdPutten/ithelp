@@ -28,6 +28,10 @@ Als u zelf Outlook of een ander email programma heeft, dan kunt u die gebruiken.
 Op [deze pagina](https://support.microsoft.com/nl-nl/office/pop-imap-en-stmp-instellingen-8361e398-8af4-4e97-b147-6c6c4ac95353) 
 vind u meer informatie over het instellen van SMTP, POP of IMAP.
 
+{{% alert title="SMTP (email versturen) werkt nog niet" color="warning" %}}
+Omdat we op dit moment nog in de migratie zitten, is het nog niet mogelijk om de SMTP instellingen van Microsoft 365 te gebruiken voor verzenden.
+{{% /alert %}}
+
 Ons advies is om IMAP te gebruiken en zoveel mogelijk berichten op de server te laten staan. De opslag en backup is daarop berekend.
 Op die manier kunnen er geen bericht kwijt raken en is overdracht eventueel makkelijker.
 
