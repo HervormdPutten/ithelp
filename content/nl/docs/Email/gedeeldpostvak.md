@@ -69,8 +69,9 @@ Hier heeft Microsoft een [uitgebreide pagina](https://support.microsoft.com/nl-n
 Op [deze pagina](https://support.microsoft.com/nl-nl/office/pop-imap-en-stmp-instellingen-8361e398-8af4-4e97-b147-6c6c4ac95353)
 vind u meer informatie over het instellen van SMTP, POP of IMAP.
 
-{{% alert title="SMTP (email versturen) werkt nog niet" color="warning" %}}
-Omdat we op dit moment nog in de migratie zitten, is het nog niet mogelijk om de SMTP instellingen van Microsoft 365 te gebruiken voor verzenden.
+{{% alert title="SMTP werkt nog niet" color="warning" %}}
+Omdat we op dit moment nog in de migratie zitten, is het nog niet mogelijk om de SMTP instellingen van Microsoft 365 te gebruiken voor verzenden van email vanaf uw eigen emailprogramma op uw computer of laptop.   
+Email versturen vanaf Outlook webversie en met de Outlook app op mobiel of tablet werkt ook naar behoren.
 {{% /alert %}}
 
 Voor de toegang voor IMAP en POP zijn de inloggegevens iets anders:
