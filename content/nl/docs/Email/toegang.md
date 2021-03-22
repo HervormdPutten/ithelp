@@ -25,15 +25,21 @@ Er is uitstekende ondersteuning voor email met behulp van de Outlook app. Deze a
 Als Hervormde Gemeente hebben we een non-profit licentie, we hebben geen licentie om Outlook als programma te installeren op uw computer/laptop.    
 Als u zelf Outlook of een ander email programma heeft, dan kunt u die gebruiken.
 
+#### App voor Windows 10
+Een **goed alternatief** is de [Office app voor Windows 10](https://www.microsoft.com/nl-nl/p/office/9wzdncrd29v9?rtc=1&activetab=pivot:overviewtab). 
+Met behulp van deze app is het mogelijk om snel toegang te krijgen tot email en documenten, en andere online mogelijkheden die behoren bij een @hervormputten.nl account.      
+Email wordt niet geopend in deze app, maar opent een tabblad in de browser met toegang tot Outlook (inloggen kan dan nog wel nodig zijn). Hetzelfde geldt voor documenten, zeker als we ook overstappen op Sharepoint voor documenten delen.
+
+#### IMAP en SMTP
 Op [deze pagina](https://support.microsoft.com/nl-nl/office/pop-imap-en-stmp-instellingen-8361e398-8af4-4e97-b147-6c6c4ac95353) 
 vind u meer informatie over het instellen van SMTP, POP of IMAP.
+
+Ons advies is om IMAP te gebruiken en zoveel mogelijk berichten op de server te laten staan. De opslag en backup is daarop berekend.
+Op die manier kunnen er geen bericht kwijt raken en is overdracht eventueel makkelijker.
 
 {{% alert title="SMTP (email versturen) werkt nog niet" color="warning" %}}
 Omdat we op dit moment nog in de migratie zitten, is het nog niet mogelijk om de SMTP instellingen van Microsoft 365 te gebruiken voor verzenden.
 {{% /alert %}}
-
-Ons advies is om IMAP te gebruiken en zoveel mogelijk berichten op de server te laten staan. De opslag en backup is daarop berekend.
-Op die manier kunnen er geen bericht kwijt raken en is overdracht eventueel makkelijker.
 
 ### Automisch doorsturen
 
