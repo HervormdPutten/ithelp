@@ -37,15 +37,21 @@ Als er vragen zijn, dan kan er altijd een email gestuurd worden naar ithelp@herv
 
 Er zijn 2 situaties mogelijk: u heeft alle oude emails op uw computer / laptop of oude emails staan nog bij Solcon, bijvoorbeeld als u gebruik maakt van de Webmail van Solcon.
 
-### Overzetten van oude emails vanaf de Webmail
+### Overzetten van oude emails vanaf de Solcon Webmail
 
-TODO: informatie zullen we zo snel mogelijk bijwerken
+Alle email die nu nog bij Solcon opgeslagen staat, kunnen we in importeren bij Microsoft 365. Daarvoor is het nodig dat de huidige gebruikersnaam en het bijbehorende wachtwoord
+doorgegeven worden, dan kunnen we alles overzetten. Dan zijn ze daarna beschikbaar in het nieuwe gedeeld postvak.
 
 ### Overzetten van oude emails vanaf uw computer/laptop
 
-TODO: informatie zullen we zo snel mogelijk bijwerken
+#### PST bestand
+Als u nu Outlook gebruikt, dan kunt een PST bestand aanmaken (of het is al opgeslagen in een PST bestand). We kunnen een PST bestand laten importeren bij Microsoft 365.
 
-## Emails **tijdens** migratie periode
+#### Met IMAP
+Een andere mogelijkheid is om in uw email programma het nieuwe postvak te openen met behulp van IMAP. Daarna kunnen dan de emails verplaatst worden naar het gedeeld postvak.   
+Zie [gedeeld postvak](../gedeeldpostvak) voor meer informatie over IMAP.
+
+## Emails **tijdens** de migratie periode
 
 {{% alert title="Zo kort mogelijk" color="warning" %}}
 Het doel is om deze migratie periode zo kort mogelijk te houden, om verwarring te voorkomen, maar er gaan geen emails verloren in deze periode
