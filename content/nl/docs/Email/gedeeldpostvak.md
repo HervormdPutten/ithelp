@@ -29,8 +29,7 @@ Microsoft heeft een [uitgebreide pagina met informatie](https://support.microsof
 ) over het gebruik van een gedeeld postvak.
 Op die pagina staat hoe het postvak is toe te voegen aan uw Outlook pagina en ook hoe versturen vanuit postvak werkt.
 {{% alert title="Advies" color="warning" %}}
-Bekijk goed het deel over het **versturen van emails** vanuit een gedeeld postvak, op de pagina van Microsoft hierboven genoemd, anders kan het zijn dat u vanuit uw persoonlijk account verstuurt.    
-En de emails verstuurd vanuit het gedeeld postvak komen te staan bij de verzonden items van het persoonlijke account.
+Bekijk goed het deel over het **versturen van emails** vanuit een gedeeld postvak, op de pagina van Microsoft hierboven genoemd, anders kan het zijn dat u vanuit uw persoonlijk account verstuurt.
 {{% /alert %}}
 
 ### Directe toegang tot een gedeeld postvak
@@ -42,7 +41,6 @@ De directe link naar het gedeelde postvak kan u opslaan in uw favorieten, dan ka
 
 {{% alert title="Advies" color="primary" %}}
 Het voordeel van dit gebruik is dat de emails die verstuurd worden automatisch vanuit dit postvak verstuurd worden en niet per ongeluk vanaf uit persoonlijk account.
-En deze vorm van gebruik is het handigste als de verzonden items doorzoekbaar moeten zijn door een andere gebruiker. De verzonden items worden opgeslagen bij de verzonden items van het gedeeld postvak.
 {{% /alert %}}
 
 
@@ -60,7 +58,6 @@ De rest wijst voor zich.
 Daarna kan u de stappen, zoals die beschrijven zijn op [deze pagina](https://support.microsoft.com/nl-nl/office/een-gedeeld-postvak-toevoegen-aan-outlook-mobile-f866242c-81b2-472e-8776-6c49c5473c9f?ui=nl-NL&rs=nl-NL&ad=NL) 
 
 In de app kunt u emails ontvangen en versturen vanuit het gedeeld postvak.
-Verzonden items vanuit een gedeeld postvak worden netjes opgeslagen bij de verzonden items vanuit het gedeeld postvak.
 
 ## Toegang vanuit Outlook (op computer/laptop)
 Voor degene die Outlook op hun computer hebben, is er ook een manier op een gedeeld postvak in Outlook te openen.
