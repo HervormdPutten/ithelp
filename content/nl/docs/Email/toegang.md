@@ -39,6 +39,8 @@ Op die manier kunnen er geen bericht kwijt raken en is overdracht eventueel makk
 
 {{% alert title="SMTP (email versturen) werkt nog niet" color="warning" %}}
 Omdat we op dit moment nog in de migratie zitten, is het nog niet mogelijk om de SMTP instellingen van Microsoft 365 te gebruiken voor verzenden.
+    
+Standaard wordt het versturen via SMTP niet toegestaan, dit kunnen we per account aanzetten. Als dat nodig is, laat het dan weten aan ithelp@hervormdputten.nl
 {{% /alert %}}
 
 ### Automisch doorsturen

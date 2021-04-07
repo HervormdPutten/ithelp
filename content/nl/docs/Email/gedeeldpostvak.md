@@ -71,7 +71,9 @@ vind u meer informatie over het instellen van SMTP, POP of IMAP.
 
 {{% alert title="SMTP werkt nog niet" color="warning" %}}
 Omdat we op dit moment nog in de migratie zitten, is het nog niet mogelijk om de SMTP instellingen van Microsoft 365 te gebruiken voor verzenden van email vanaf uw eigen emailprogramma op uw computer of laptop.   
-Email versturen vanaf Outlook webversie en met de Outlook app op mobiel of tablet werkt ook naar behoren.
+Email versturen vanaf Outlook webversie en met de Outlook app op mobiel of tablet werkt ook naar behoren.   
+
+Standaard wordt het versturen via SMTP niet toegestaan, dit kunnen we per account aanzetten. Als dat nodig is, laat het dan weten aan ithelp@hervormdputten.nl
 {{% /alert %}}
 
 Voor de toegang voor IMAP en POP zijn de inloggegevens iets anders:
