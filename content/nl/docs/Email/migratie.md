@@ -1,8 +1,7 @@
 ---
 title: "Migratie"   
 weight: 1    
-description: >
-    Informatie over de migratie van Solcon naar Microsoft 365.
+description: Informatie over de migratie van Solcon naar Microsoft 365.
 ---
 
 ## Uitleg

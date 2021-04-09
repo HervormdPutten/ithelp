@@ -1,24 +1,23 @@
 ---
 title: "Toegang"
 weight: 2
-description: >
-  Informatie over de toegang tot email binnen Microsoft 365.
+description: Informatie over de toegang tot email binnen Microsoft 365.
 ---
 
 ## Uitleg
 
 Toegang tot de email is op verschillende manier mogelijk. Via de browser en via de app zijn de handigste manieren.
 
+### Outlook app op mobiel of tablet
+Er is uitstekende ondersteuning voor email met behulp van de Outlook app. Deze app ondersteunt het gebruik van [gedeeld postvak](../gedeeldpostvak) uitstekend.
+* [Outlook app voor iOS/Apple](https://apps.apple.com/us/app/microsoft-outlook/id951937596)
+* [Outlook app voor Android](https://play.google.com/store/apps/details?id=com.microsoft.office.outlook)
+
 ### Outlook (webversie)
 Met de browser kunt u gaan naar https://outlook.office.com/ en dan inloggen.    
 Let op: dit is niet hetzelfde als www.outlook.com of outlook.live.com al lijkt het wel veel op op elkaar. Als u daar aanmeldt met uw @hervormdputten.nl account, dan gaat u automitisch door naar outlook.office.com.
 
 De functionaliteit van outlook.com en outlook.office.com lijkt veel op elkaar, maar verschilt ook op een aantal punten.
-
-### Outlook app op mobiel of tablet
-Er is uitstekende ondersteuning voor email met behulp van de Outlook app. Deze app ondersteunt het gebruik van [gedeeld postvak](../gedeeldpostvak) uitstekend.
-* [Outlook app voor iOS/Apple](https://apps.apple.com/us/app/microsoft-outlook/id951937596)
-* [Outlook app voor Android](https://play.google.com/store/apps/details?id=com.microsoft.office.outlook)
 
 ### Toegang vanuit een email programma op de computer/laptop
 
@@ -37,16 +36,15 @@ vind u meer informatie over het instellen van SMTP, POP of IMAP.
 Ons advies is om IMAP te gebruiken en zoveel mogelijk berichten op de server te laten staan. De opslag en backup is daarop berekend.
 Op die manier kunnen er geen bericht kwijt raken en is overdracht eventueel makkelijker.
 
-{{% alert title="SMTP (email versturen) werkt nog niet" color="warning" %}}
-Omdat we op dit moment nog in de migratie zitten, is het nog niet mogelijk om de SMTP instellingen van Microsoft 365 te gebruiken voor verzenden.
-    
-Standaard wordt het versturen via SMTP niet toegestaan, dit kunnen we per account aanzetten. Als dat nodig is, laat het dan weten aan ithelp@hervormdputten.nl
+{{% alert title="SMTP" color="warning" %}}
+**Standaard** wordt het versturen via **SMTP niet toegestaan**, dit kunnen we per account **aanzetten**. Als dat nodig is, laat het dan weten aan ithelp@hervormdputten.nl
 {{% /alert %}}
 
-### Automisch doorsturen
+### Automatisch doorsturen
 
 {{% alert title="Voorzichtig" color="warning" %}}
-Het is mogelijk om het doorsturen van email in te stellen van email naar uw persoonlijke account naar uw prive emailadres. Ga hier met zorg mee om. Er kan gevoelige informatie gedeeld worden met u. Die informatie is niet bedoeld voor andere gezinsleden.
+Het is mogelijk om het doorsturen van email in te stellen van email naar uw persoonlijke account naar uw prive emailadres.   
+**Ga hier met zorg mee om**. Er kan gevoelige informatie gedeeld worden met u. Die informatie is niet bedoeld voor andere gezinsleden.
 {{% /alert %}}
 
 Voor het instellen van automatisch doorsturen kunt u terecht op [deze pagina](https://support.microsoft.com/nl-nl/office/regels-gebruiken-om-berichten-automatisch-door-te-sturen-45aa9664-4911-4f96-9663-ece42816d746).
