@@ -18,6 +18,21 @@ toegang. Bij overdracht is het mogelijk dat tijdelijk 2 personen toegang hebben,
 rechten van de eerste persoon ingetrokken. Daarnaast kan een gedeeld postvak aangemaakt worden voor een commissie of
 werkgroep, waarbij meerdere personen toegang hebben tot dat gedeeld postvak.
 
+```mermaid
+graph BT
+     id1([Gebruikersaccount])
+     id2(Persoonlijke mailbox)
+     id3(Gedeeld postvak)
+     id1 --> id2
+     id1 --> id3
+     
+     subgraph email [Email / Outlook]
+        id2
+        id3
+     end
+    
+```
+
 Voorbeelden van een gedeeld postvak:
 
 * ak@hervormdputten.nl   
@@ -88,7 +103,14 @@ De directe link naar het gedeelde postvak kan u opslaan in uw favorieten, dan ka
 Voor degene die Outlook op hun computer hebben, is er ook een manier op een gedeeld postvak in Outlook te openen. Hier
 heeft Microsoft
 een [uitgebreide pagina](https://support.microsoft.com/nl-nl/office/een-gedeeld-postvak-openen-en-gebruiken-in-outlook-d94a8e9e-21f1-4240-808b-de9c9c088afd?ui=nl-NL&rs=nl-NL&ad=NL)
-over gemaakt.
+over gemaakt. Als Hervormde Gemeente hebben we geen licentie voor Outlook, dus we kunnen Outlook niet verstrekken als u dat nog niet heeft.
+
+#### App voor Windows 10
+Een **goed alternatief** is de [Office app voor Windows 10](https://www.microsoft.com/nl-nl/p/office/9wzdncrd29v9?rtc=1&activetab=pivot:overviewtab).
+Met behulp van deze app is het mogelijk om snel toegang te krijgen tot email en documenten, en andere online mogelijkheden die behoren bij een @hervormputten.nl account.      
+Email wordt niet geopend in deze app, maar opent een tabblad in de browser met toegang tot Outlook (inloggen kan dan nog wel nodig zijn). Hetzelfde geldt voor documenten, zeker als we ook overstappen op Sharepoint voor documenten delen.
+
+## Overige email programma's
 
 Op [deze pagina](https://support.microsoft.com/nl-nl/office/pop-imap-en-stmp-instellingen-8361e398-8af4-4e97-b147-6c6c4ac95353)
 vind u meer informatie over het instellen van SMTP, POP of IMAP.

@@ -22,7 +22,8 @@ De functionaliteit van outlook.com en outlook.office.com lijkt veel op elkaar, m
 ### Toegang vanuit een email programma op de computer/laptop
 
 Als Hervormde Gemeente hebben we een non-profit licentie, we hebben geen licentie om Outlook als programma te installeren op uw computer/laptop.    
-Als u zelf Outlook of een ander email programma heeft, dan kunt u die gebruiken.
+Als u zelf Outlook of een ander email programma heeft, dan kunt u die gebruiken.    
+Als u de beschikking heeft over Outlook, dan heeft dat de voorkeur, dat werkt heel goed samen.    
 
 #### App voor Windows 10
 Een **goed alternatief** is de [Office app voor Windows 10](https://www.microsoft.com/nl-nl/p/office/9wzdncrd29v9?rtc=1&activetab=pivot:overviewtab). 
