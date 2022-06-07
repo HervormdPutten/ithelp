@@ -7,8 +7,8 @@ description: >
 ---
 
 
-{{% pageinfo color="warning" %}}
-Hieronder staan wat links genoemd, maar die informatie is nog niet compleet.
+{{% pageinfo color="info" %}}
+Hieronder staat geen uitgebreid beschreven informatie, maar alleen links naar de documentatie van Microsoft.
 {{% /pageinfo %}}
 
 ## Vergadering aanmaken met een Teams uitnodiging
