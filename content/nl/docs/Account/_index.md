@@ -29,15 +29,21 @@ Op andere pagina's is informatie over de verschillende diensten te vinden.
 
 ```mermaid
 graph BT
-     id1([Gebruikersaccount])
-     id2(Persoonlijke mailbox)
-     id3(Gedeeld postvak)
-     id1 --> id2
-     id1 -- optioneel -.-> id3
+     account([Gebruikersaccount])
+     mailbox(Persoonlijke mailbox)
+     sharedmailbox(Gedeeld postvak)
+     agenda(Persoonlijke agenda)
+     sharedagenda(Gedeelde agenda)
+     account --> mailbox
+     account -- optioneel -.-> sharedmailbox
+     account --> agenda
+     account -- optioneel -.-> sharedagenda
      
      subgraph email [Email / Outlook]
-        id2
-        id3
+        mailbox
+        sharedmailbox
+        agenda
+        sharedagenda
      end
      subgraph groupKerkenraad [Kerkenraad]
         kerkenraad[documenten]
@@ -52,8 +58,8 @@ graph BT
         groupCommissie
     end
     
-    id1 -- optioneel -.-> commissie
-    id1 -- optioneel -.-> kerkenraad
+    account -- optioneel -.-> commissie
+    account -- optioneel -.-> kerkenraad
 ```
 
 
