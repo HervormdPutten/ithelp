@@ -8,31 +8,36 @@ description: Informatie over de toegang tot email binnen Microsoft 365.
 
 Toegang tot de email is op verschillende manier mogelijk. Via de browser en via de app zijn de handigste manieren.
 
-### Outlook app op mobiel of tablet
+### Toegang vanaf mobiel/tablet met de Outlook app
+
 Er is uitstekende ondersteuning voor email met behulp van de Outlook app. Deze app ondersteunt het gebruik van [gedeeld postvak](../gedeeldpostvak) uitstekend.
 * [Outlook app voor iOS/Apple](https://apps.apple.com/us/app/microsoft-outlook/id951937596)
 * [Outlook app voor Android](https://play.google.com/store/apps/details?id=com.microsoft.office.outlook)
 
-### Outlook (webversie)
+### Toegang vanuit Outlook (webversie)
+
 Met de browser kunt u gaan naar https://outlook.office.com/ en dan inloggen.    
 Let op: dit is niet hetzelfde als www.outlook.com of outlook.live.com al lijkt het wel veel op op elkaar. Als u daar aanmeldt met uw @hervormdputten.nl account, dan gaat u automitisch door naar outlook.office.com.
 
 De functionaliteit van outlook.com en outlook.office.com lijkt veel op elkaar, maar verschilt ook op een aantal punten.
 
-### Toegang vanuit een email programma op de computer/laptop
+### Toegang vanuit Outlook (op computer/laptop)
 
-Als Hervormde Gemeente hebben we een non-profit licentie, we hebben geen licentie om Outlook als programma te installeren op uw computer/laptop.    
-Als u zelf Outlook of een ander email programma heeft, dan kunt u die gebruiken.    
-Als u de beschikking heeft over Outlook, dan heeft dat de voorkeur, dat werkt heel goed samen.    
+Voor degene die Outlook op hun computer hebben, die kan gebruikt worden om toegang te krijgen tot de persoonlijke mailbox.   
+Die integratie werkt heel goed.    
+Als Hervormde Gemeente hebben we geen licentie voor Outlook, dus we kunnen Outlook niet verstrekken als u dat nog niet heeft.
 
-#### App voor Windows 10
+### App voor Windows 10/11
+
 Een **goed alternatief** is de [Office app voor Windows 10](https://www.microsoft.com/nl-nl/p/office/9wzdncrd29v9?rtc=1&activetab=pivot:overviewtab). 
 Met behulp van deze app is het mogelijk om snel toegang te krijgen tot email en documenten, en andere online mogelijkheden die behoren bij een @hervormputten.nl account.      
 Email wordt niet geopend in deze app, maar opent een tabblad in de browser met toegang tot Outlook (inloggen kan dan nog wel nodig zijn). Hetzelfde geldt voor documenten, zeker als we ook overstappen op Sharepoint voor documenten delen.
 
-#### IMAP en SMTP
+## Overige email programma's
+
+Veel email programma's kunnen tegenwoordig overweg met online Outlook account. Als dat niet standaard werkt, dan is het ook mogelijk om gebruik te maken van de standaard protocollen IMAP, SMTP en POP3.   
 Op [deze pagina](https://support.microsoft.com/nl-nl/office/pop-imap-en-stmp-instellingen-8361e398-8af4-4e97-b147-6c6c4ac95353) 
-vind u meer informatie over het instellen van SMTP, POP of IMAP.
+vind u meer informatie over het instellen van SMTP, POP3 of IMAP.
 
 Ons advies is om IMAP te gebruiken en zoveel mogelijk berichten op de server te laten staan. De opslag en backup is daarop berekend.
 Op die manier kunnen er geen bericht kwijt raken en is overdracht eventueel makkelijker.

@@ -105,13 +105,16 @@ heeft Microsoft
 een [uitgebreide pagina](https://support.microsoft.com/nl-nl/office/een-gedeeld-postvak-openen-en-gebruiken-in-outlook-d94a8e9e-21f1-4240-808b-de9c9c088afd?ui=nl-NL&rs=nl-NL&ad=NL)
 over gemaakt. Als Hervormde Gemeente hebben we geen licentie voor Outlook, dus we kunnen Outlook niet verstrekken als u dat nog niet heeft.
 
-#### App voor Windows 10
+#### App voor Windows 10/11
+
 Een **goed alternatief** is de [Office app voor Windows 10](https://www.microsoft.com/nl-nl/p/office/9wzdncrd29v9?rtc=1&activetab=pivot:overviewtab).
 Met behulp van deze app is het mogelijk om snel toegang te krijgen tot email en documenten, en andere online mogelijkheden die behoren bij een @hervormputten.nl account.      
 Email wordt niet geopend in deze app, maar opent een tabblad in de browser met toegang tot Outlook (inloggen kan dan nog wel nodig zijn). Hetzelfde geldt voor documenten, zeker als we ook overstappen op Sharepoint voor documenten delen.
 
 ## Overige email programma's
 
+Veel email programma's kunnen tegenwoordig overweg met online Outlook account. Het gebruik van een gedeeld postvak kan iets anders liggen, mogelijk werkt dat niet.    
+Als dat niet standaard werkt, dan is het ook mogelijk om gebruik te maken van de standaard protocollen IMAP, SMTP en POP3.
 Op [deze pagina](https://support.microsoft.com/nl-nl/office/pop-imap-en-stmp-instellingen-8361e398-8af4-4e97-b147-6c6c4ac95353)
 vind u meer informatie over het instellen van SMTP, POP of IMAP.
 
