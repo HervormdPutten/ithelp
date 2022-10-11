@@ -8,6 +8,9 @@ description: Informatie over een standaard opmaak van emails verstuurd namens on
 Hieronder staan wat links genoemd, maar die informatie is nog niet compleet.    
 {{%/pageinfo %}}
 
-https://support.office.com/nl-nl/f1/topic/een-e-mailhandtekening-in-de-webversie-van-outlook-maken-en-toevoegen-5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3?NS=OLWAO365B&Version=16
 
-https://support.microsoft.com/nl-nl/office/een-e-mailhandtekening-in-outlook-web-app-maken-en-toevoegen-0f230564-11b9-4239-83de-f10cbe4dfdfc
+https://support.microsoft.com/nl-nl/office/een-e-mailhandtekening-in-de-webversie-van-outlook-maken-en-toevoegen-5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3
+
+
+Outlook op de computer/laptop
+https://support.microsoft.com/nl-nl/office/een-handtekening-maken-en-toevoegen-aan-berichten-8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2
