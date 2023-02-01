@@ -62,6 +62,12 @@ graph BT
     account -- optioneel -.-> kerkenraad
 ```
 
+De onderdelen:
+* [Email](../email)
+* [Documenten](../documenten)
+* [Agenda](../agenda)
+
+Alles is bereikbaar vanuit het [portaal](../portal)
 
 ## Wachtwoord vergeten?
 
@@ -70,5 +76,5 @@ Als u uw wachtwoord niet meer weet, dan kunt u
 De beheerder ontvangt dan bericht om u te helpen met de reset.
 
 ## Wachtwoord wijzigen
-U kunt zelf uw wachtwoord op elk moment wijzigen. Het kan door het bezoeken van [https://account.microsoft.com/](https://account.microsoft.com/).    
-Op [deze pagina](https://support.microsoft.com/nl-nl/account-billing/het-wachtwoord-van-uw-microsoft-account-wijzigen-fdde885b-86da-2965-69fd-4871309ef1f1) staat stap voor stap beschreven hoe dat kan.
+U kunt zelf uw wachtwoord op elk moment wijzigen. Het kan door het bezoeken van [https://myaccount.microsoft.com/](https://myaccount.microsoft.com/).    
+Aan de linkerkant in het menu kunt u kiezen voor 'Wachtwoord' om daarna het wachtwoord te wijzigen.    
