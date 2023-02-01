@@ -13,7 +13,7 @@ De beheerder maakt een persoonlijk account aan, u krijgt die gegeven toegestuurd
 In die email vindt u ook een wachtwoord. Dat wachtwoord is tijdelijk, zodra u de eerste keer inlogt, dan moet u een 
 nieuw wachtwoord opgeven. Dat nieuwe wachtwoord moet in het vervolg gebruiken.
 
-Met behulp van uw account kunt u inloggen op bijvoorbeeld [https://portal.office.com](https://portal.office.com)
+Met behulp van uw account kunt u inloggen op bijvoorbeeld [https://portal.hervormdputten.nl](https://portal.hervormdputten.nl)
 
 
 {{% alert title="Niet delen met anderen" color="warning" %}}

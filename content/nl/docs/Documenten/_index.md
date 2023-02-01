@@ -1,7 +1,7 @@
 ---
 title: "Documenten"
 linkTitle: "Documenten"
-weight: 4
+weight: 30
 description: >
     Over het delen van documenten binnen onze gemeente.
 ---

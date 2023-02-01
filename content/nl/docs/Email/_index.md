@@ -1,7 +1,7 @@
 ---
 title: "Email"   
 linkTitle: "Email"   
-weight: 2   
+weight: 20   
 description: Over het gebruik van email binnen onze gemeente.
 ---
 

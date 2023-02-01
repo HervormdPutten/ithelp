@@ -1,7 +1,7 @@
 ---
 title: "Agenda"
 linkTitle: "Agenda"
-weight: 3
+weight: 40
 description: >
     Over het gebruik van Outlook agenda voor het inzien van reserveringen van de gebouwen
 ---

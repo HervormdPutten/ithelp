@@ -1,7 +1,7 @@
 ---
 title: "Teams"
 linkTitle: "Teams"
-weight: 5
+weight: 50
 description: >
     Microsoft Teams voor online vergaderingen en catechese.
 ---
