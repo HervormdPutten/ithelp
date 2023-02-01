@@ -16,10 +16,8 @@ Er is uitstekende ondersteuning voor email met behulp van de Outlook app. Deze a
 
 ### Toegang vanuit Outlook (webversie)
 
-Met de browser kunt u gaan naar https://outlook.office.com/ en dan inloggen.    
-Let op: dit is niet hetzelfde als www.outlook.com of outlook.live.com al lijkt het wel veel op op elkaar. Als u daar aanmeldt met uw @hervormdputten.nl account, dan gaat u automitisch door naar outlook.office.com.
-
-De functionaliteit van outlook.com en outlook.office.com lijkt veel op elkaar, maar verschilt ook op een aantal punten.
+Vanuit het [portaal](../portal) kan u meteen door klikken naar de webversie van Outlook (https://outlook.office.com/).    
+De webversie biedt alle opties die ook beschikbaar zijn binnen Outlook op de computer/laptop.
 
 ### Toegang vanuit Outlook (op computer/laptop)
 

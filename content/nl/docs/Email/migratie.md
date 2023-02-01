@@ -16,9 +16,8 @@ functie een gedeeld postvak aangemaakt. Degene die de functie bekleed, krijgt to
 dat tijdelijk 2 personen toegang hebben, maar na verloop van tijd worden de rechten van de eerste persoon ingetrokken.
 
 De reden om het op deze manier te doen is dat er geen wachtwoorden worden overgedragen en als iemand een andere functie
-krijgt binnen onze gemeente blijft de toegang hetzelfde met hetzelfde account. We hebben met OwnCloud ervaring opgedaan
-met deze manier van werken, en dat werkt er fijn. Het geeft ons ook precies inzicht in wie toegang heeft tot welk
-account.
+krijgt binnen onze gemeente blijft de toegang hetzelfde met hetzelfde account. Het geeft ons ook precies inzicht in wie 
+toegang heeft tot welk  account.
 
 ```mermaid
 graph BT

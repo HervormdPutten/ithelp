@@ -64,6 +64,9 @@ In de app kunt u emails ontvangen en versturen vanuit het gedeeld postvak.
 
 ## Toegang vanuit Outlook (webversie)
 
+Vanuit het [portaal](../portal) kan u meteen door klikken naar de webversie van Outlook (https://outlook.office.com/).    
+In het portaal kan je ook zoeken naar het gedeelde postvak en dan rechtstreeks het postvak openen.
+
 Microsoft heeft
 een [uitgebreide pagina met informatie](https://support.microsoft.com/nl-nl/office/een-gedeeld-postvak-openen-en-gebruiken-in-de-webversie-van-outlook-98b5a90d-4e38-415d-a030-f09a4cd28207?ui=nl-NL&rs=nl-NL&ad=NL
 ) over het gebruik van een gedeeld postvak. Op die pagina staat hoe het postvak is toe te voegen aan uw Outlook pagina
