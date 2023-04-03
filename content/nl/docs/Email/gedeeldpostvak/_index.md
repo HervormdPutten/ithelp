@@ -108,6 +108,13 @@ heeft Microsoft
 een [uitgebreide pagina](https://support.microsoft.com/nl-nl/office/een-gedeeld-postvak-openen-en-gebruiken-in-outlook-d94a8e9e-21f1-4240-808b-de9c9c088afd?ui=nl-NL&rs=nl-NL&ad=NL)
 over gemaakt. Als Hervormde Gemeente hebben we geen licentie voor Outlook, dus we kunnen Outlook niet verstrekken als u dat nog niet heeft.
 
+#### Oudere versies van Outlook
+
+Microsoft heeft IMAP en SMTP met basic authentication stop gezet. Alleen moderne authenticatie werkt.    
+Oudere Outlook versies ondersteunen dit standaard niet, maar er zijn manier om dat wel voor elkaar te krijgen.   
+Dat heeft Microsoft hier beschreven: [Activeer moderne authenticatie](https://learn.microsoft.com/nl-nl/microsoft-365/admin/security-and-compliance/enable-modern-authentication?view=o365-worldwide)
+
+
 #### App voor Windows 10/11
 
 Een **goed alternatief** is de [Office app voor Windows 10](https://www.microsoft.com/nl-nl/p/office/9wzdncrd29v9?rtc=1&activetab=pivot:overviewtab).
@@ -117,29 +124,7 @@ Email wordt niet geopend in deze app, maar opent een tabblad in de browser met t
 ## Overige email programma's
 
 Veel email programma's kunnen tegenwoordig overweg met online Outlook account. Het gebruik van een gedeeld postvak kan iets anders liggen, mogelijk werkt dat niet.    
-Als dat niet standaard werkt, dan is het ook mogelijk om gebruik te maken van de standaard protocollen IMAP, SMTP en POP3.
-Op [deze pagina](https://support.microsoft.com/nl-nl/office/pop-imap-en-stmp-instellingen-8361e398-8af4-4e97-b147-6c6c4ac95353)
-vind u meer informatie over het instellen van SMTP, POP of IMAP.
+Als het email programma het niet ondersteund, dan adviseren we de Outlook webversie te gebruiken, zoals hierboven genoemd is.
 
-{{% alert title="SMTP werkt nog niet" color="warning" %}} Omdat we op dit moment nog in de migratie zitten, is het nog
-niet mogelijk om de SMTP instellingen van Microsoft 365 te gebruiken voor verzenden van email vanaf uw eigen
-emailprogramma op uw computer of laptop.   
-Email versturen vanaf Outlook webversie en met de Outlook app op mobiel of tablet werkt ook naar behoren.
 
-**Standaard** wordt het versturen via **SMTP niet toegestaan**, dit kunnen we per account **aanzetten**. Als dat nodig is, laat het
-dan weten aan ithelp@hervormdputten.nl {{% /alert %}}
-
-Voor de toegang voor IMAP en POP zijn de inloggegevens iets anders:
-
-> Instellingen voor IMAP:   
-> Emailadres: voorbeeld@hervormdputten.nl (gedeeld postvak)   
-> IMAP SERVER: outlook.office365.com
->
-> Gebruikersnaam: uw_gebruikersnaam@hervormdputten.nl\voorbeeld (gebruikersnaam\verkorte naam van gedeeld postvak)   
-> Wachtwoord: uwgeheim (wachtwoord van uw gebruikersnaam)
-
-Zoals hierboven genoemd, SMTP werkt nog niet, maar als het wel werkt:
-> SMTP SERVER: smtp.office365.com (port 587)   
-> Gebruikernaam: uw_gebruikersnaam@hervormdputten.nl (uw gebruikersnaam, zodat gecontroleerd kan worden dat u verstuurd namens het gedeeld postvak)   
-> Wachtwoord: uwgeheim (wachtwoord van uw gebruikersnaam)   
 

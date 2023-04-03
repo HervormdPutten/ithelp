@@ -25,6 +25,12 @@ Voor degene die Outlook op hun computer hebben, die kan gebruikt worden om toega
 Die integratie werkt heel goed.    
 Als Hervormde Gemeente hebben we geen licentie voor Outlook, dus we kunnen Outlook niet verstrekken als u dat nog niet heeft.
 
+#### Oudere versies van Outlook
+
+Microsoft heeft IMAP en SMTP met basic authentication stop gezet. Alleen moderne authenticatie werkt.    
+Oudere Outlook versies ondersteunen dit standaard niet, maar er zijn manier om dat wel voor elkaar te krijgen.   
+Dat heeft Microsoft hier beschreven: [Activeer moderne authenticatie](https://learn.microsoft.com/nl-nl/microsoft-365/admin/security-and-compliance/enable-modern-authentication?view=o365-worldwide)
+
 ### App voor Windows 10/11
 
 Een **goed alternatief** is de [Office app voor Windows 10](https://www.microsoft.com/nl-nl/p/office/9wzdncrd29v9?rtc=1&activetab=pivot:overviewtab). 
@@ -35,14 +41,10 @@ Email wordt niet geopend in deze app, maar opent een tabblad in de browser met t
 
 Veel email programma's kunnen tegenwoordig overweg met online Outlook account. Als dat niet standaard werkt, dan is het ook mogelijk om gebruik te maken van de standaard protocollen IMAP, SMTP en POP3.   
 Op [deze pagina](https://support.microsoft.com/nl-nl/office/pop-imap-en-stmp-instellingen-8361e398-8af4-4e97-b147-6c6c4ac95353) 
-vind u meer informatie over het instellen van SMTP, POP3 of IMAP.
+vind u meer informatie over het instellen van SMTP, POP3 of IMAP, maar dat werkt dan alleen met OAuth2 authenticatie en niet met basic authenticatie, dat is uitgezet door Microsoft vanwege beveiligingsredenen.
 
 Ons advies is om IMAP te gebruiken en zoveel mogelijk berichten op de server te laten staan. De opslag en backup is daarop berekend.
 Op die manier kunnen er geen bericht kwijt raken en is overdracht eventueel makkelijker.
-
-{{% alert title="SMTP" color="warning" %}}
-**Standaard** wordt het versturen via **SMTP niet toegestaan**, dit kunnen we per account **aanzetten**. Als dat nodig is, laat het dan weten aan ithelp@hervormdputten.nl
-{{% /alert %}}
 
 ### Automatisch doorsturen
 
