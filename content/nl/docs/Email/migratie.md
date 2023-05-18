@@ -47,7 +47,7 @@ altijd een email gestuurd worden naar ithelp@hervormdputten.nl
 1. Automatisch doorsturen wordt ingesteld van Solcon naar het nieuwe gedeelde postvak.
 1. Emails in de mailbox bij Solcon worden gemigreerd naar het nieuwe gedeelde postvak.
 1. Migratie is voltooid, controleer nu ook of het werkt en verstuur een bericht vanuit
-   het gedeeld postvak naar je prive emailadres.  
+   het gedeeld postvak naar uw prive emailadres.  
 1. Het emailadres bij Solcon wordt later weggehaald.
 
 

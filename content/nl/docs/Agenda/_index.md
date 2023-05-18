@@ -51,7 +51,7 @@ Dat staat hier verder niet beschreven. Voor Google Calendar staat [hier meer inf
 
 #### Outlook agenda online
 
-Als de uitnodiging is geaccepteerd, dan kan je Outlook online openen.   
+Als de uitnodiging is geaccepteerd, dan kan u Outlook online openen.   
 Voor degene van een @hervormdputten.nl account kan dat [hier](https://outlook.office.com/calendar/view/month).   
 Dan opent de agenda.
 

@@ -55,4 +55,4 @@ Meer informatie over agenda's is [hier](../agenda) te vinden.
 3. De vraag meteen sturen vanaf het portaal kan ook.
 
 ## Source code
-De code van het portaal is opgeslagen op Github in de repository https://github.com/HervormdPutten/portal. Interesse om de code te bekijken en/of bij te dragen. Ook daarover kan je een email sturen naar ithelp@hervormdputten.nl
+De code van het portaal is opgeslagen op Github in de repository https://github.com/HervormdPutten/portal. Interesse om de code te bekijken en/of bij te dragen. Ook daarover kunt u een email sturen naar ithelp@hervormdputten.nl

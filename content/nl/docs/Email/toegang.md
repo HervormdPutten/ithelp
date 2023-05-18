@@ -16,7 +16,7 @@ Er is uitstekende ondersteuning voor email met behulp van de Outlook app. Deze a
 
 ### Toegang vanuit Outlook (webversie)
 
-Vanuit het [portaal](../portal) kan u meteen door klikken naar de webversie van Outlook (https://outlook.office.com/).    
+Vanuit het [portaal](../portal) kunt u meteen door klikken naar de webversie van Outlook (https://outlook.office.com/).    
 De webversie biedt alle opties die ook beschikbaar zijn binnen Outlook op de computer/laptop.
 
 ### Toegang vanuit Outlook (op computer/laptop)
@@ -41,7 +41,7 @@ Email wordt niet geopend in deze app, maar opent een tabblad in de browser met t
 
 Veel email programma's kunnen tegenwoordig overweg met online Outlook account. Als dat niet standaard werkt, dan is het ook mogelijk om gebruik te maken van de standaard protocollen IMAP, SMTP en POP3.   
 Op [deze pagina](https://support.microsoft.com/nl-nl/office/pop-imap-en-stmp-instellingen-8361e398-8af4-4e97-b147-6c6c4ac95353) 
-vind u meer informatie over het instellen van SMTP, POP3 of IMAP, maar dat werkt dan alleen met OAuth2 authenticatie en niet met basic authenticatie, dat is uitgezet door Microsoft vanwege beveiligingsredenen.
+vindt u meer informatie over het instellen van SMTP, POP3 of IMAP, maar dat werkt dan alleen met OAuth2 authenticatie en niet met basic authenticatie, dat is uitgezet door Microsoft vanwege beveiligingsredenen.
 
 Ons advies is om IMAP te gebruiken en zoveel mogelijk berichten op de server te laten staan. De opslag en backup is daarop berekend.
 Op die manier kunnen er geen bericht kwijt raken en is overdracht eventueel makkelijker.
@@ -49,7 +49,7 @@ Op die manier kunnen er geen bericht kwijt raken en is overdracht eventueel makk
 ### Automatisch doorsturen
 
 {{% alert title="Voorzichtig" color="warning" %}}
-Het is mogelijk om het doorsturen van email in te stellen van email naar uw persoonlijke account naar uw prive emailadres.   
+Het is mogelijk om het doorsturen van email in te stellen van email naar uw prive emailadres.   
 **Ga hier met zorg mee om**. Er kan gevoelige informatie gedeeld worden met u. Die informatie is niet bedoeld voor andere gezinsleden.
 {{% /alert %}}
 

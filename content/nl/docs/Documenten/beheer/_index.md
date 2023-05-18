@@ -41,7 +41,7 @@ Gebruikers toevoegen kan met de volgende stappen:
 * Rechtsboven in is de optie `Lid` of `Leden`
 {{< imgproc lid_toevoegen1.webp Resize "400x" >}}
 {{</imgproc >}}
-* In het menu wat opent, kan je de lijst met leden die nu toegang hebben zien en staat de optie om toe te voegen.
+* In het menu wat opent, kunt u de lijst met leden die nu toegang hebben zien en staat de optie om toe te voegen.
   {{< imgproc lid_toevoegen2.webp Resize "400x" >}}
   {{</imgproc >}}
 * Type de naam van degene die toegevoegd moet worden en klik op de naam.

@@ -17,7 +17,7 @@ Andere optie is dat een @hervormdputten.nl account aangemaakt wordt, die integra
 
 ### Toegang verlenen
 
- * Ga naar https://outlook.office.com/calendar/agenda@hervormdputten.nl/view/month en log in met je [persoonlijk account](../../account)
+ * Ga naar https://outlook.office.com/calendar/agenda@hervormdputten.nl/view/month en log in met uw [persoonlijk account](../../account)
  * Onder het kopje "Mijn agenda's" staan de agenda's van de gebouwen.
  * Klik met de rechtermuis knop op de tekst van een gebouw.
  * Kies voor 'Delen en machtigingen' 
