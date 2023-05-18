@@ -7,13 +7,7 @@ description: >
 ---
 
 
-Op dit moment gebruiken we OwnCloud voor het uitwisselen van documenten binnen kerkenraden en commissies.    
-Na de emailmigratie gaan we ook het documentbeheer via Microsoft 365 laten verlopen. Dat voorkomt dat we dubbele accounts en toegang moeten regelen.
+Alle documenten op een centrale plek met de juiste toegang, dat is de manier waarop we met documenten binnen onze gemeente om willen gaan.   
+Daarom krijgt iedereen op basis van zijn persoonlijk account toegang tot de documenten die nodig zijn, zoals ook beschreven bij [account](../account).
 
-
-[comment]: <> (https://support.microsoft.com/nl-nl/office/sharepoint-bestanden-en-mappen-synchroniseren-87a96948-4dd7-43e4-aca1-53f3e18bea9b)
-
-https://support.microsoft.com/nl-nl/office/sharepoint-bestanden-en-mappen-synchroniseren-87a96948-4dd7-43e4-aca1-53f3e18bea9b
-
-
-https://support.microsoft.com/nl-nl/office/sharepoint-bestanden-en-teams-bestanden-synchroniseren-met-de-computer-6de9ede8-5b6e-4503-80b2-6190f3354a88
+In de pagina's over gebruik en beheer is meer informatie over te vinden hoe bepaalde dingen geregeld kunnen worden.
