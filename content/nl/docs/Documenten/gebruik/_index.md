@@ -48,10 +48,17 @@ Onder het kopje 'Bibliotheken' staan de Sharepoint sites die vaak geopen zijn, `
 
 ### Gebruik op laptop/computer
 
-Het is mogelijk om de documenten automatisch te downloaden. Hiervoor heeft u het OneDrive programma nodig, die is [hier te downloaden](https://www.microsoft.com/nl-nl/microsoft-365/onedrive/download).   
+Het is mogelijk om de documenten automatisch te downloaden. Hiervoor heeft u het OneDrive programma nodig, die is [hier te downloaden](https://www.microsoft.com/nl-nl/microsoft-365/onedrive/download).
+Daarna is het mogelijk om een sharepoint site te downloaden en als u documenten op uw computer toevoegd, dat het ook automatisch geupload wordt.   
 
-Daarna is het mogelijk om een sharepoint site te downloaden en als u documenten op uw computer toevoegd, dat het ook automatisch geupload wordt.
-Uitgebreide informatie en demonstratie beschikbaar op de website van Microsoft:
+Als u OneDrive heeft geinstalleerd, dan kan u daarna binnen een Sharepoint site op 'Synchroniseren' klikken':
+
+{{< imgproc documenten-sync.webp Resize "800x" >}}
+{{</imgproc >}}
+
+Daarna zal OneDrive op uw computer openen en evt vragen om in te loggen. Daarna wordt er gevraagd waar de map aangemaakt moet worden en daarna worden de documenten daar automatisch naar toe gesynchroniseerd.
+
+Uitgebreide informatie en **uitleg video** beschikbaar op de website van Microsoft:
 https://support.microsoft.com/nl-nl/office/sharepoint-bestanden-en-mappen-synchroniseren-87a96948-4dd7-43e4-aca1-53f3e18bea9b
 
 ### OneDrive via de browser
