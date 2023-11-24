@@ -171,3 +171,12 @@ enable = false
 [params.mermaid]
 enable = true
 theme = "neutral"
+
+[params.faro_analytics]
+    endpoint = "https://faro-collector-prod-eu-west-3.grafana.net/collect/3b93b5e1ecb372478547488517b39925"
+    name = "ithelp.hervormdputten.nl"
+    version = "1.0.0"
+
+[module]
+[[module.imports]]
+    path = 'faro-analytics'
