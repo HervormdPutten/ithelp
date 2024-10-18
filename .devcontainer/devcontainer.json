@@ -1,0 +1,21 @@
+{
+	"name": "Debian",
+	"image": "mcr.microsoft.com/devcontainers/base:bookworm",
+	"features": {
+		"ghcr.io/devcontainers/features/hugo:1": {
+			"version": "0.121.1",
+			"extended": true
+	    },
+        "ghcr.io/devcontainers/features/node:1": {},
+        "ghcr.io/devcontainers/features/powershell:1": {}
+	},
+	"onCreateCommand": "git submodule init",
+	"updateContentCommand": "git submodule update",
+	"portsAttributes": {
+		"1313": {
+			"label": "IT Help",
+			"onAutoForward": "openPreview"
+		}
+	},
+	"forwardPorts": [1313]
+}
