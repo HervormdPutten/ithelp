@@ -2,6 +2,14 @@
 
 A page with some useful admin scripts
 
+## Local
+
+Run devcontainer with powershell.
+
+```
+Install-Module -Name ExchangeOnlineManagement
+```
+
 ## Sharepoint sites
 
 https://answers.microsoft.com/en-us/msoffice/forum/all/turning-off-email-notification-when-adding-team/ea22f6c7-20f0-4b35-97eb-bf923b353e4f
@@ -9,6 +17,8 @@ https://answers.microsoft.com/en-us/msoffice/forum/all/turning-off-email-notific
 ```pwsh
 
 Connect-ExchangeOnline -UserPrincipalName <username@domain.com>
+# Or if no browser is available in the terminal environment
+Connect-ExchangeOnline -Device 
 
 # List all groups
 Get-UnifiedGroup | ft Name,DisplayName,PrimarySmtpAddress,WelcomeMessageEnabled,HiddenFromAddressListsEnabled
