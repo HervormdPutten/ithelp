@@ -21,7 +21,7 @@ Als dit de eerste keer is dat u inlogt, volgt er een login scherm zoals deze:
 1. Type hier uw persoonlijk account die u ontvangen heeft. _voornaam.achternaam@hervormdputten.nl_
 2. Klik op `Volgende`
 
-In het volgende scherm wordt u gevraagd om het wachtwoord op te geven. Voor degene die ook een OwnCloud account hebben, dit is **NIET** hetzelfde wachtwoord. U heeft een nieuw persoonlijk wachtwoord ontvangen.   
+In het volgende scherm wordt u gevraagd om het wachtwoord op te geven. U heeft een nieuw persoonlijk wachtwoord ontvangen.   
 
 Na het wachtwoord, zal gevraagd worden om het wachtwoord te wijzigen. Het initiële wachtwoord is een tijdelijk wachtwoord, u kunt nu een eigen wachtwoord opgeven. Sla uw wachtwoord veilig op, bij voorkeur in een wachtwoordmanager. 
 
