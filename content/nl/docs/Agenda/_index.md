@@ -13,7 +13,7 @@ graph BT
      agenda(Persoonlijke agenda)
      sharedagenda(Gedeelde agenda)
      account --> agenda
-     account -- optioneel -.-> sharedagenda
+     account -. optioneel .-> sharedagenda
      
      subgraph email [Email / Outlook]
         agenda

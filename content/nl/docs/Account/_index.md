@@ -35,9 +35,9 @@ graph BT
      agenda(Persoonlijke agenda)
      sharedagenda(Gedeelde agenda)
      account --> mailbox
-     account -- optioneel -.-> sharedmailbox
+     account -. optioneel .-> sharedmailbox
      account --> agenda
-     account -- optioneel -.-> sharedagenda
+     account -. optioneel .-> sharedagenda
      
      subgraph email [Email / Outlook]
         mailbox
@@ -58,8 +58,8 @@ graph BT
         groupCommissie
     end
     
-    account -- optioneel -.-> commissie
-    account -- optioneel -.-> kerkenraad
+    account -. optioneel .-> commissie
+    account -. optioneel .-> kerkenraad
 ```
 
 De onderdelen:

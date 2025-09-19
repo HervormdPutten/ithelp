@@ -15,7 +15,7 @@ graph BT
      id2(Persoonlijke mailbox)
      id3(Gedeeld postvak)
      id1 --> id2
-     id1 -- optioneel -.-> id3
+     id1 -. optioneel .-> id3
      
      subgraph email [Email / Outlook]
         id2
