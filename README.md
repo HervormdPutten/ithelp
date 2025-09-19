@@ -7,6 +7,18 @@ The live website can be visited at: [https://ithelp.hervormdputten.nl](https://i
 
 ```bash
 git clone --recurse-submodules --depth 1 git@github.com:HervormdPutten/ithelp.git
+
+# Update submodules
+cd themes/docsy
+git checkout v0.12.0
+
+cd themes/github.com/FortAwesome/Font-Awesome/
+git checkout 7.0.1
+
+cd themes/github.com/twbs/bootstrap/
+git fetch --tags
+git checkout v5.3.8
+
 ```
 
 You can now edit your own versions of the site’s source files.
