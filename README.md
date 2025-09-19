@@ -1,12 +1,12 @@
 # IT Help | Hervormd Putten
 
-[![Github Pages](https://github.com/HervormdPutten/ithelp/actions/workflows/build-and-deploy.yml/badge.svg)](https://github.com/HervormdPutten/ithelp/actions/workflows/build-and-deploy.yml)   
+[![Github Pages](https://github.com/HervormdPutten/ithelp/actions/workflows/github-pages.yml/badge.svg)](https://github.com/HervormdPutten/ithelp/actions/workflows/build-and-deploy.yml)   
 The live website can be visited at: [https://ithelp.hervormdputten.nl](https://ithelp.hervormdputten.nl)
 
 ## Local development
 
 ```bash
-git clone --recurse-submodules --depth 1 https://github.com/my/example.git
+git clone --recurse-submodules --depth 1 git@github.com:HervormdPutten/ithelp.git
 ```
 
 You can now edit your own versions of the site’s source files.
