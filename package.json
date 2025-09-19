@@ -1,21 +1,21 @@
 {
-  "name": "tech-doc-hugo",
-  "version": "0.0.1",
-  "description": "Hugo theme for technical documentation.",
+  "name": "ithelp-documentation",
+  "version": "2.0.0",
+  "description": "IT help documentation.",
   "main": "none.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/google/docsy-example.git"
+    "url": "git+https://github.com/HervormdPutten/ithelp.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/google/docsy-example/issues"
+    "url": "https://github.com/HervormdPutten/ithelp/issues"
   },
-  "homepage": "https://github.com/google/docsy-example#readme",
+  "homepage": "https://ithelp.hervormdputten.nl",
   "devDependencies": {
     "autoprefixer": "^10.4.21",
     "postcss": "^8.5.6",
