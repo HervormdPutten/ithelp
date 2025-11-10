@@ -4,9 +4,13 @@ A page with some useful admin scripts
 
 ## Local
 
-Run devcontainer with powershell.
+Run devcontainer with powershell or a container
+
+
 
 ```
+podman run -rm -it mcr.microsoft.com/dotnet/sdk:9.0 pwsh
+
 Install-Module -Name ExchangeOnlineManagement
 ```
 
