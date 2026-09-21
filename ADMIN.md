@@ -40,6 +40,29 @@ Get-UnifiedGroup |   Where-Object { $_.WelcomeMessageEnabled -Eq $True } |  Set-
 Get-UnifiedGroup |   Where-Object { $_.AutoSubscribeNewMembers -Eq $False }  | Set-UnifiedGroup  -AutoSubscribeNewMembers:$True
 ```
 
+## Check email forward settings
+
+To check if there is a full forward enabled:
+
+```pwsh
+Get-Mailbox -ResultSize Unlimited | 
+Where-Object { $_.ForwardingSmtpAddress -ne $null -or $_.ForwardingAddress -ne $null } | 
+Select-Object DisplayName, PrimarySmtpAddress, ForwardingSmtpAddress, ForwardingAddress, DeliverToMailboxAndForward
+```
+
+- `ForwardingAddress` - forwarding to a recipient inside your org (internal object)
+- `ForwardingSmtpAddress` - forwarding to an external SMTP address
+- `DeliverToMailboxAndForward` - tells you whether a copy is also kept in the original mailbox
+
+To check if there are forward rules enabled in a mailbox:
+
+```pwsh
+Get-Mailbox -ResultSize Unlimited | ForEach-Object {
+    Get-InboxRule -Mailbox $_.PrimarySmtpAddress | 
+    Where-Object { $_.ForwardTo -ne $null -or $_.ForwardAsAttachmentTo -ne $null -or $_.RedirectTo -ne $null }
+} | Select-Object MailboxOwnerID, Name, Enabled, ForwardTo, RedirectTo, ForwardAsAttachmentTo
+```
+
 ## Change language and local setting of a (shared) mailbox
 
 https://w365.dk/index.php/2021/07/28/change-language-of-a-shared-mailbox-in-exchange-online/
