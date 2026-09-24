@@ -6,7 +6,7 @@
 			"version": "0.121.1",
 			"extended": true
 	    },
-        "ghcr.io/devcontainers/features/node:1": {},
+        "ghcr.io/devcontainers/features/node:2": {},
         "ghcr.io/devcontainers/features/powershell:1": {}
 	},
 	"onCreateCommand": "git submodule init",
