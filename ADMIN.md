@@ -40,6 +40,20 @@ Get-UnifiedGroup |   Where-Object { $_.WelcomeMessageEnabled -Eq $True } |  Set-
 Get-UnifiedGroup |   Where-Object { $_.AutoSubscribeNewMembers -Eq $False }  | Set-UnifiedGroup  -AutoSubscribeNewMembers:$True
 ```
 
+### Agenda sharing
+
+```pwsh
+# List sharing options
+Get-SharingPolicy | Format-List Name, Domains, Enabled, Default
+
+# See which mailbox has which permissions
+Get-Mailbox -ResultSize Unlimited | Select DisplayName, SharingPolicy
+
+# Assign agenda sharing permissions
+Set-Mailbox -Identity agenda@hervormdputten.nl -SharingPolicy "Agenda publiceren"
+
+```
+
 ## Check email forward settings
 
 To check if there is a full forward enabled:
